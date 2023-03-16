@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+      "outDir": "./dist/",
+      "module": "es2022",
+      "target": "es5",
+      "jsx": "react-jsx",
+      "types": ["node","react/next","react-dom/next"],
+      "allowJs": true,
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "strict": true,                           /* Enable all strict type-checking options. */
+      "noImplicitAny": true,                 /* Raise error on expressions and declarations with an implied 'any' type. */
+      "strictNullChecks": true,              /* Enable strict null checks. */
+      "noPropertyAccessFromIndexSignature": true,
+      "skipLibCheck": true,  
+    },
+    "include": [
+      "**/*.ts",
+      "src/*.d.ts",
+      "src",
+      "index.d.ts"
+   ],
+    "exclude": [
+      ".git",
+      "node_modules"
+    ]
+  }
