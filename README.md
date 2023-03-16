@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/24363931/225771368-76349165-17b0-40aa-bdbd-4bd23241e66b.png)
+
 # BeyondAesthetics
 BeyondAesthetics is a social media app that focuses on sharing and discovering new aesthetics. With over 600+ aesthetics to discover, you can explore a world of creativity and inspiration. Share your own ideas and get feedback from other users.
 The project includes React features like Redux, Google auth, route protection, lazy loading, TypeScript practices, and is built with React 18. The app uses SanityApi for content management, Tailwind CSS for styling, and Redux Toolkit for state management.
